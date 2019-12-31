@@ -1,1 +1,1 @@
-thanks to cyril-frebel for menus update
+thank to cyril-frebel for menus update
