@@ -1,4 +1,4 @@
-here is all the contributors, you can write your name in the following place:
+here is all the contributors, cyril-frebel will write your name in this list:
 cyril-frebel
 
 
