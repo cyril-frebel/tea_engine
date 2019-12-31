@@ -1,0 +1,5 @@
+- menu (quit,...)
+- 2d platform game developement tool
+- 3d rpg game developement tool
+- find the best color for the backgrounds
+- find an image to represent tea (for exemple a tea leaf), open -source of course
